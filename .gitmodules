@@ -1,0 +1,12 @@
+[submodule "git/ffmpeg"]
+	path = git/ffmpeg
+	url = git://source.ffmpeg.org/ffmpeg.git
+[submodule "git/fdk-aac"]
+	path = git/fdk-aac
+	url = https://github.com/mstorsjo/fdk-aac.git
+[submodule "git/nv-codec-headers"]
+	path = git/nv-codec-headers
+	url = https://git.videolan.org/git/ffmpeg/nv-codec-headers.git
+[submodule "git/x264"]
+	path = git/x264
+	url = http://git.videolan.org/git/x264.git
